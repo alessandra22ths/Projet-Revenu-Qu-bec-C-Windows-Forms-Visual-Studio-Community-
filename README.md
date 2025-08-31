@@ -1,2 +1,2 @@
-# Projet-Revenu-Qu-bec-C-Windows-Forms-Visual-Studio-Community-
+# Projet-Revenu-Quebec-C-Windows-Forms-Visual-Studio-Community-
 Projet Revenu Québec est une application Windows Forms développée en C# avec Visual Studio Community. Elle permet de gérer des compagnies et des employés grâce aux formulaires frmCompagnies et frmEmployes, chacun avec ses fichiers associés. La logique commune et la gestion des ressources sont centralisées dans la classe clsGlobalReve.
