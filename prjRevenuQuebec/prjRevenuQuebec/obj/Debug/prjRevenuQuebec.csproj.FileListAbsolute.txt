@@ -1,0 +1,11 @@
+C:\Users\whois\Downloads\prjRevenuQuebec\prjRevenuQuebec\bin\Debug\prjRevenuQuebec.exe.config
+C:\Users\whois\Downloads\prjRevenuQuebec\prjRevenuQuebec\bin\Debug\prjRevenuQuebec.exe
+C:\Users\whois\Downloads\prjRevenuQuebec\prjRevenuQuebec\bin\Debug\prjRevenuQuebec.pdb
+C:\Users\whois\Downloads\prjRevenuQuebec\prjRevenuQuebec\obj\Debug\prjRevenuQuebec.csproj.AssemblyReference.cache
+C:\Users\whois\Downloads\prjRevenuQuebec\prjRevenuQuebec\obj\Debug\prjRevenuQuebec.frmPrincipale.resources
+C:\Users\whois\Downloads\prjRevenuQuebec\prjRevenuQuebec\obj\Debug\prjRevenuQuebec.csproj.GenerateResource.cache
+C:\Users\whois\Downloads\prjRevenuQuebec\prjRevenuQuebec\obj\Debug\prjRevenuQuebec.csproj.CoreCompileInputs.cache
+C:\Users\whois\Downloads\prjRevenuQuebec\prjRevenuQuebec\obj\Debug\prjRevenuQuebec.exe
+C:\Users\whois\Downloads\prjRevenuQuebec\prjRevenuQuebec\obj\Debug\prjRevenuQuebec.pdb
+C:\Users\whois\Downloads\prjRevenuQuebec\prjRevenuQuebec\obj\Debug\prjRevenuQuebec.frmCompagnies.resources
+C:\Users\whois\Downloads\prjRevenuQuebec\prjRevenuQuebec\obj\Debug\prjRevenuQuebec.frmEmployes.resources
